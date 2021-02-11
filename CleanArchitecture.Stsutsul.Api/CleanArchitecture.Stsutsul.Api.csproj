@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Hellang.Middleware.ProblemDetails" Version="5.1.1" />
         <PackageReference Include="Microsoft.AspNet.WebApi.Versioning.ApiExplorer" Version="4.1.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>

@@ -1,13 +1,15 @@
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.IO;
-using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
 using CleanArchitecture.Stsutsul.Application;
 using CleanArchitecture.Stsutsul.Persistence;
+using Hellang.Middleware.ProblemDetails;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +18,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using Swashbuckle.AspNetCore.SwaggerGen;
 
 namespace CleanArchitecture.Stsutsul.Api
 {
@@ -48,6 +49,16 @@ namespace CleanArchitecture.Stsutsul.Api
                 options.IncludeXmlComments(xmlPath);
                 options.SwaggerDoc("v1", new OpenApiInfo {Title = "CleanArchitecture.Stsutsul.Api", Version = "v1"});
             });
+
+            services.AddProblemDetails(x =>
+            {
+                x.Map<ValidationException>(exception => new ProblemDetails
+                {
+                    Status = 400,
+                    Detail = $"Shit happened: {exception.Message}"
+                });
+                x.MapToStatusCode<Exception>(503);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -70,40 +81,6 @@ namespace CleanArchitecture.Stsutsul.Api
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
-        }
-    }
-
-    public class SwaggerDefaultValues : IOperationFilter
-    {
-        /// <summary>
-        /// Applies the filter to the specified operation using the given context.
-        /// </summary>
-        /// <param name="operation">The operation to apply the filter to.</param>
-        /// <param name="context">The current operation filter context.</param>
-        public void Apply(OpenApiOperation operation, OperationFilterContext context)
-        {
-            var apiDescription = context.ApiDescription;
-
-            // operation.Deprecated |= apiDescription.IsDeprecated();
-
-            if (operation.Parameters == null)
-            {
-                return;
-            }
-
-            // REF: https://github.com/domaindrivendev/Swashbuckle.AspNetCore/issues/412
-            // REF: https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/413
-            foreach (var parameter in operation.Parameters) //.OfType<NonBodyParameter>())
-            {
-                var description = apiDescription.ParameterDescriptions.First(p => p.Name == parameter.Name);
-
-                if (parameter.Description == null)
-                {
-                    parameter.Description = description.ModelMetadata?.Description;
-                }
-
-                parameter.Required |= description.IsRequired;
-            }
         }
     }
 }

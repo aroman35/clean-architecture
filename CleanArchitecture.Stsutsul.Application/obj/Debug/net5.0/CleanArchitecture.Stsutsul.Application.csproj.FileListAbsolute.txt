@@ -1,0 +1,15 @@
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Application.deps.json
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Application.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\bin\Debug\net5.0\ref\CleanArchitecture.Stsutsul.Application.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Application.pdb
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.pdb
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.csprojAssemblyReference.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.AssemblyInfoInputs.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.AssemblyInfo.cs
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.csproj.CoreCompileInputs.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.csproj.CopyComplete
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\ref\CleanArchitecture.Stsutsul.Application.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Application\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Application.pdb

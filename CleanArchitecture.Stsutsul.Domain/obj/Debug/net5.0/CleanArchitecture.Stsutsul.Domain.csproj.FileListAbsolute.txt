@@ -1,0 +1,12 @@
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.deps.json
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\bin\Debug\net5.0\ref\CleanArchitecture.Stsutsul.Domain.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.pdb
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.csprojAssemblyReference.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.AssemblyInfoInputs.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.AssemblyInfo.cs
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.csproj.CoreCompileInputs.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\ref\CleanArchitecture.Stsutsul.Domain.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Domain\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.pdb

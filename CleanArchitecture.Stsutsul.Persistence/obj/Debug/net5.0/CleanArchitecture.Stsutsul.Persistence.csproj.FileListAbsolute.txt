@@ -1,0 +1,17 @@
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.deps.json
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\ref\CleanArchitecture.Stsutsul.Persistence.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.pdb
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Application.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Application.pdb
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\bin\Debug\net5.0\CleanArchitecture.Stsutsul.Domain.pdb
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.csprojAssemblyReference.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.AssemblyInfoInputs.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.AssemblyInfo.cs
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.csproj.CoreCompileInputs.cache
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.csproj.CopyComplete
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\ref\CleanArchitecture.Stsutsul.Persistence.dll
+D:\projects\crypto-trade\CleanArchitecrure.Stsutsul\CleanArchitecture.Stsutsul.Persistence\obj\Debug\net5.0\CleanArchitecture.Stsutsul.Persistence.pdb
